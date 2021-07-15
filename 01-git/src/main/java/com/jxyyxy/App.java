@@ -8,5 +8,6 @@ public class App {
         System.out.println("冲突合并分支master");
         System.out.println("冲突合并分支hot-fix");
         System.out.println("拉取远程库代码到本地库");
+        System.out.println("拉取远程库代码到本地库2");
     }
 }
